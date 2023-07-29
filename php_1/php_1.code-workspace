@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../asm_php_1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "asm_php_1"
+	}
+}
